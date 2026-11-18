@@ -10,4 +10,5 @@
         <maven.compiler.release>25</maven.compiler.release>
         <exec.mainClass>com.mycompany.prog6112_exam.Main</exec.mainClass>
     </properties>
+    <name>PROG6112_Question_1_Exam</name>
 </project>

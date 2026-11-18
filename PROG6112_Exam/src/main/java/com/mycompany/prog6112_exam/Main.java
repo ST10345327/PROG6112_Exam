@@ -6,7 +6,7 @@ package com.mycompany.prog6112_exam;
 
 /**
  *
- * @author Student
+ * @author ST10345327
  */
 
 public class Main {
