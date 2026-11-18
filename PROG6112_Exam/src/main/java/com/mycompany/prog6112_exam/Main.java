@@ -8,9 +8,16 @@ package com.mycompany.prog6112_exam;
  *
  * @author Student
  */
-public class PROG6112_Exam {
+
+public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+
+        // Create an object of the PrintProduct class.
+        PrintReport report = new PrintReport();
+
+        // Display the sales report.
+        report.PrintReport();
     }
 }
+
