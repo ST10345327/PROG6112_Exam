@@ -11,4 +11,13 @@
         <exec.mainClass>com.mycompany.prog6112_exam.Main</exec.mainClass>
     </properties>
     <name>PROG6112_Question_1_Exam</name>
+    <dependencies>
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter-api</artifactId>
+            <version>5.10.2</version>
+            <scope>test</scope>
+            <type>jar</type>
+        </dependency>
+    </dependencies>
 </project>
